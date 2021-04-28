@@ -24,7 +24,7 @@ This was the fourth project on the [Superhi Foundation](https://superhi.com/cour
 * CSS3
 
 ## Demo
-[Live Demo](guybroadhurst.github.io/boyce/)
+[Live Demo](https://guybroadhurst.github.io/boyce/)
 
 ## Features
 List of features:
